@@ -1,3 +1,6 @@
 # hello-world
-Fisher-Price Stuff
-My name is Slim Shady. Just kidding.  I'm new to GitHub and I lke what i'm seeing. So far; so good.
+## Initial Message
+This is an introduction for me.  I'm becoming more adept at working with Git and Github. It's been good so far.  Let's see what the rest has in store.
+
+Cheers.
+El Nene
